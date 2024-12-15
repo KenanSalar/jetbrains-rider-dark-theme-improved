@@ -1,0 +1,21 @@
+{
+  "name": "jetbrains-rider-dark-theme-improved",
+  "displayName": "Jetbrains Rider Dark Theme Improved",
+  "description": "Jetbrains Rider Dark Theme but with better syntax highlighting.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jetbrains Rider Dark Theme Improved",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jetbrains Rider Dark Theme Improved-color-theme.json"
+      }
+    ]
+  }
+}
