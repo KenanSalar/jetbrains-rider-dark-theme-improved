@@ -1,16 +1,7 @@
-# jetbrains-rider-dark-theme-improved README
+# Jetbrains Rider Dark Improved
 
-## Working with Markdown
+The iconic Jetbrains Rider Dark Theme but with improved syntax highlighting.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Theme Screenshot](https://i.postimg.cc/npZLDVsw-/Screenshot-2024-12-15-205338.png)
+![Theme Screenshot](https://i.postimg.cc/Xn1NmwsT/Screenshot-2024-12-15-205354.png)
+![Theme Screenshot](https://i.postimg.cc/Hd2k4GXW/Screenshot-2024-12-15-205442.png)

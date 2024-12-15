@@ -2,12 +2,50 @@
   "name": "jetbrains-rider-dark-theme-improved",
   "displayName": "Jetbrains Rider Dark Theme Improved",
   "description": "Jetbrains Rider Dark Theme but with better syntax highlighting.",
-  "version": "0.0.1",
+  "icon": "resources/256px-JetBrains_Rider_Icon.svg.png",
+  "version": "1.0.0",
+  "publisher": "kenan-salar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KenanSalar/jetbrains-rider-dark-theme-improved.git"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "jetbrains",
+    "rider",
+    "dark",
+    "theme",
+    "default",
+    "color",
+    "syntax",
+    "highlighting",
+    "dark theme",
+    "color theme",
+    "syntax highlighting",
+    "jetbrains rider theme",
+    "jetbrains rider syntax",
+    "jetbrains rider highlighting",
+    "jetbrains rider color",
+    "jetbrains rider syntax highlighting",
+    "jetbrains rider dark theme",
+    "jetbrains rider color theme",
+    "jetbrains rider syntax highlighting theme",
+    "beautiful",
+    "beautiful theme",
+    "beautiful syntax highlighting",
+    "beautiful dark theme",
+    "readable",
+    "readable theme",
+    "readable syntax highlighting",
+    "readable dark theme",
+    "relaxing",
+    "relaxing theme"
   ],
   "contributes": {
     "themes": [
