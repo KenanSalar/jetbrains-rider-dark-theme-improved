@@ -1,5 +1,5 @@
 {
-	"name": "Jetbrains Rider Dark Theme Improved",
+  "name": "Jetbrains Rider Dark Theme Improved",
   "colors": {
     "contrastBorder": "#00000000",
 
@@ -1529,7 +1529,7 @@
         "entity.other.attribute-name.id punctuation.definition.entity"
       ],
       "settings": {
-        "foreground": "#c090e7",
+        "foreground": "#c191ff",
         "fontStyle": ""
       }
     },
@@ -1540,7 +1540,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#c090e7",
+        "foreground": "#c191ff",
         "fontStyle": ""
       }
     },
@@ -1556,7 +1556,7 @@
       "name": "html markup element",
       "scope": ["entity.name.tag.html"],
       "settings": {
-        "foreground": "#c090e7",
+        "foreground": "#c191ff",
         "fontStyle": ""
       }
     },
@@ -1752,11 +1752,11 @@
       "fontStyle": ""
     },
     "markupTagDelimiter": {
-      "foreground": "#c090e7",
+      "foreground": "#c191ff",
       "fontStyle": ""
     },
     "markupElement": {
-      "foreground": "#c090e7",
+      "foreground": "#c191ff",
       "fontStyle": ""
     },
     "markupAttribute": {
@@ -1788,7 +1788,7 @@
       "fontStyle": "italic"
     },
     "razorComponentElement": {
-      "foreground": "#66c3cc",
+      "foreground": "#c191ff",
       "fontStyle": ""
     },
     "razorComponentAttribute": {
@@ -1796,11 +1796,11 @@
       "fontStyle": ""
     },
     "razorTagHelperElement": {
-      "foreground": "#66c3cc",
+      "foreground": "#c191ff",
       "fontStyle": ""
     },
     "razorTagHelperAttribute": {
-      "foreground": "#c0c291",
+      "foreground": "#69aad4",
       "fontStyle": ""
     },
     "markdownHeading": {
