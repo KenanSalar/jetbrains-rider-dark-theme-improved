@@ -4,6 +4,12 @@ All notable changes to the "jetbrains-rider-dark-theme-improved" extension will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## Changes of version 1.0.3
+
+- **Adjustet some ui elements that requires to be transparent**
+
+---
+
 ## Changes of version 1.0.2
 
 - **Changed selection background color while searching**
