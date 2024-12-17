@@ -17,7 +17,7 @@
     "welcomePage.tileBorder": "#7f869720",
     "welcomePage.tileHoverBackground": "#7f869720",
     "welcomePage.progress.background": "#2b2d30",
-    "welcomePage.progress.foreground": "#202424",
+    "welcomePage.progress.foreground": "#989b9e",
 
     "badge.background": "#979c9e",
     "badge.foreground": "#252525",
@@ -77,7 +77,7 @@
     "debugExceptionWidget.border": "#171718dc",
     "debugToolBar.background": "#2b2d30",
     "toolbar.hoverBackground": "#5d5f6260",
-    "descriptionForeground": "#b3b6bb4d",
+    "descriptionForeground": "#b3b6bb73",
     "disabledForeground": "#b3b6bb4d",
 
     "diffEditor.border": "#171718dc",
@@ -292,8 +292,8 @@
     "scrollbarSlider.background": "#4d4e5188",
     "scrollbarSlider.hoverBackground": "#55575aa8",
 
-    "settings.modifiedItemIndicator": "#202424",
-    "settings.headerForeground": "#202424",
+    "settings.modifiedItemIndicator": "#525e5e",
+    "settings.headerForeground": "#b3b6bb",
     "keybindingLabel.background": "#2b2d30",
     "keybindingLabel.foreground": "#909295",
     "keybindingLabel.border": "#5d5f62",
@@ -391,7 +391,7 @@
     "textLink.activeForeground": "#63c0ff",
     "textLink.foreground": "#63c0ff",
     "textPreformat.foreground": "#7d87ac",
-    "textSeparator.foreground": "#202424",
+    "textSeparator.foreground": "#505353",
 
     "walkThrough.embeddedEditorBackground": "#252525",
 
