@@ -4,6 +4,13 @@ All notable changes to the "jetbrains-rider-dark-theme-improved" extension will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## Changes of version 1.0.5
+
+- **Adjusted some foreground colors(in the settings etc.)**
+- **Adjusted xml element and attribute foreground colors**
+
+---
+
 ## Changes of version 1.0.4
 
 - **The secondary text foreground color is now correctly displayed**
