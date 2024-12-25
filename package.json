@@ -3,7 +3,7 @@
   "displayName": "Jetbrains Rider Dark Theme Improved",
   "description": "Jetbrains Rider Dark Theme but with better syntax highlighting.",
   "icon": "resources/256px-JetBrains_Rider_Icon.svg.png",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publisher": "kenan-salar",
   "license": "MIT",
   "repository": {

@@ -9,7 +9,7 @@
     "activityBar.inactiveForeground": "#5d6262b3",
     "activityBar.activeBorder": "#9bcadf00",
     "activityBar.activeBackground": "#4b4c4f81",
-    "activityBarBadge.background": "#35a5f033",
+    "activityBarBadge.background": "#5678bde0",
     "activityBarBadge.foreground": "#303133",
     "activityBar.dropBorder": "#5d5f6233",
 
@@ -28,13 +28,13 @@
     "breadcrumb.activeSelectionForeground": "#b3b6bb",
     "breadcrumb.focusForeground": "#b3b6bb",
 
-    "button.background": "#3573f033",
+    "button.background": "#3573f054",
     "button.foreground": "#b3b6bb",
     "button.border": "#202424",
     "button.hoverBackground": "#202424",
 
     "extensionButton.foreground": "#b3b6bb",
-    "extensionButton.background": "#3573f033",
+    "extensionButton.background": "#3573f054",
     "extensionButton.hoverBackground": "#202424",
     "extensionButton.prominentBackground": "#202424",
     "extensionButton.prominentForeground": "#b3b6bb",

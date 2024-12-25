@@ -4,6 +4,12 @@ All notable changes to the "jetbrains-rider-dark-theme-improved" extension will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## Changes of version 1.0.8
+
+- **Badge background color is now visible instead of being too transparent**
+
+---
+
 ## Changes of version 1.0.7
 
 - **Fixed xml color for documentation and xml files**
