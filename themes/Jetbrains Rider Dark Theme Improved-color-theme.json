@@ -525,7 +525,6 @@
         "meta.attribute.id entity.other.attribute-name",
         "text.html entity.other.attribute-name",
         "meta.tag.attributes entity.other.attribute-name",
-        "text.xml entity.other.attribute-name",
         "source.cs entity.other.attribute-name",
         "constant.character.format.placeholder",
         "constant.other.placeholder",
@@ -1104,11 +1103,27 @@
       }
     },
     {
+      "name": "localname name tag xml",
+      "scope": ["entity.name.tag.localname"],
+      "settings": {
+        "foreground": "#9e6cdf",
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "localname attribute tag",
       "scope": ["entity.other.attribute-name.localname.cs"],
       "settings": {
         "foreground": "#b97d65",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "localname attribute tag xml",
+      "scope": ["text.xml entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#b97d65",
+        "fontStyle": ""
       }
     },
     {

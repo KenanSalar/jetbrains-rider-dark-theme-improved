@@ -4,6 +4,12 @@ All notable changes to the "jetbrains-rider-dark-theme-improved" extension will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## Changes of version 1.0.7
+
+- **Fixed xml color for documentation and xml files**
+
+---
+
 ## Changes of version 1.0.6
 
 - **Method color is now 1:1 the same from the jetbrains rider dark theme**
