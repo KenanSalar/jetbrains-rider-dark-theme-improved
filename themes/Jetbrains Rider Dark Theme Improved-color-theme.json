@@ -233,7 +233,7 @@
     "editorOverviewRuler.currentContentForeground": "#cf4d4d",
     "editorOverviewRuler.incomingContentForeground": "#67cf85",
 
-    "minimap.background": "#252525",
+    "minimap.background": "#2525259d",
     "minimap.errorHighlight": "#cf4d4d",
     "minimap.warningHighlight": "#edb492",
     "minimapGutter.addedBackground": "#67cf85",

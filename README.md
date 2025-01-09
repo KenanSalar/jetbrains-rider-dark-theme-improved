@@ -6,7 +6,7 @@
 
 Install the extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=kenan-salar.jetbrains-rider-dark-theme-improved)
 
-**You can use semantic highlighting (recommended).**
+**You can use semantic highlighting (recommended).**  
 **Put this command in your settings.json:**
 `"editor.semanticHighlighting.enabled": true`
 
